@@ -1,0 +1,49 @@
+# Exclude directories
+osu-resources/
+logs/
+downloads/
+__pycache__/
+cache/
+
+# Exclude sensitive configuration files
+config.py
+.env
+*.key
+*.pem
+
+# Exclude database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Exclude log files
+*.log
+bot.log
+
+# Exclude temporary files
+*.tmp
+*.osz
+*.osu
+
+# Exclude IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Exclude OS files
+.DS_Store
+Thumbs.db
+
+# Exclude Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
