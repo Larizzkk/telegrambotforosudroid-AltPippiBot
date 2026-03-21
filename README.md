@@ -84,7 +84,6 @@ The bot integrates with multiple public APIs:
 ### osu!droid APIs
 - **Main API**: `https://osudroid.moe/api/`
 - **New API**: `https://new.osudroid.moe/api2/frontend`
-- **Multiplayer**: `https://multi.osudroid.moe`
 
 ### osu! APIs (fallback)
 - **API v2**: `https://osu.ppy.sh/api/v2`
